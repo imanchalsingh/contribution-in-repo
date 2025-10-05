@@ -2173,6 +2173,14 @@
             "label": "good first issue",
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+		{
+    "name": "novu",
+    "link": "https://github.com/novuhq/novu",
+    "label": "good first issue",
+    "technologies": ["TypeScript", "Node.js", "React"],
+    "description": "The open-source notification infrastructure for developers. Build email, SMS, and in-app notifications easily."
+}
+
     ]
 }
